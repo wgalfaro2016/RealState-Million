@@ -1,0 +1,12 @@
+C:\Users\Thinkpad\Documents\Wilmar\Projects\Million\RealState-Million\RealEstate.Domain\bin\Debug\net7.0\RealEstate.Domain.deps.json
+C:\Users\Thinkpad\Documents\Wilmar\Projects\Million\RealState-Million\RealEstate.Domain\bin\Debug\net7.0\RealEstate.Domain.dll
+C:\Users\Thinkpad\Documents\Wilmar\Projects\Million\RealState-Million\RealEstate.Domain\bin\Debug\net7.0\RealEstate.Domain.pdb
+C:\Users\Thinkpad\Documents\Wilmar\Projects\Million\RealState-Million\RealEstate.Domain\obj\Debug\net7.0\RealEstate.Domain.csproj.AssemblyReference.cache
+C:\Users\Thinkpad\Documents\Wilmar\Projects\Million\RealState-Million\RealEstate.Domain\obj\Debug\net7.0\RealEstate.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thinkpad\Documents\Wilmar\Projects\Million\RealState-Million\RealEstate.Domain\obj\Debug\net7.0\RealEstate.Domain.AssemblyInfoInputs.cache
+C:\Users\Thinkpad\Documents\Wilmar\Projects\Million\RealState-Million\RealEstate.Domain\obj\Debug\net7.0\RealEstate.Domain.AssemblyInfo.cs
+C:\Users\Thinkpad\Documents\Wilmar\Projects\Million\RealState-Million\RealEstate.Domain\obj\Debug\net7.0\RealEstate.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Thinkpad\Documents\Wilmar\Projects\Million\RealState-Million\RealEstate.Domain\obj\Debug\net7.0\RealEstate.Domain.dll
+C:\Users\Thinkpad\Documents\Wilmar\Projects\Million\RealState-Million\RealEstate.Domain\obj\Debug\net7.0\refint\RealEstate.Domain.dll
+C:\Users\Thinkpad\Documents\Wilmar\Projects\Million\RealState-Million\RealEstate.Domain\obj\Debug\net7.0\RealEstate.Domain.pdb
+C:\Users\Thinkpad\Documents\Wilmar\Projects\Million\RealState-Million\RealEstate.Domain\obj\Debug\net7.0\ref\RealEstate.Domain.dll
